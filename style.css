@@ -1,0 +1,104 @@
+
+html {
+	min-width: 2000px;
+}
+ 
+body {
+	color: white;
+	font-family: atrament-web, sans-serif;
+	position: relative;
+	width: 2000px;
+	height: 1800px;
+}
+
+#main_div{
+	background-color: white;
+    position: relative;
+    left: 0;
+}
+
+#main{
+	position: relative;
+	left: 0px;
+	top: 60px;
+}
+
+#timeline{
+	position: relative;
+	left: 80px;
+	top: 40px;
+	z-index: 2;
+}
+
+
+#main, #timeline{
+	float: left;
+}
+
+
+#pLegends{
+	display: flex;
+	clear: both;
+	position: relative;
+	left: 540px;
+	top: -100px;
+	height: 300px;
+	width: 1400px;
+}
+
+#main_echart{
+	top: -150px;
+	width: 600px;
+	height:400px;
+	float: right;
+	margin-right: 10px;
+}
+
+#main_echart_b{
+	top: -150px;
+	width: 600px;
+	height:400px;
+	float: right;
+	margin-right: 10px;
+}
+
+#main_echart_c{
+	top: -150px;
+	width: 600px;
+	height:400px;
+	float: right;
+}
+
+#div1{
+	display: flex;
+	position: relative;
+	top: -40px;
+}
+
+#shottracker{
+	position: relative;
+	float: right;
+	top: 50px;
+	right: -100px;
+}
+
+#tLegends{
+	position: relative;
+	left: 530px;
+	top: -1030px;
+	pointer-events: all;
+	z-index: 0;
+	font-family: Futura;
+	font-size: 14px;
+}
+
+#pics{
+	display: flex;
+	position: relative;
+	top: -304px;
+	width: 2000px;
+}
+#pic1{
+	margin-left: 200px;
+	margin-right: 300px;
+}

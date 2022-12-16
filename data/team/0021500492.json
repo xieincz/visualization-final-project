@@ -1,0 +1,64 @@
+[ {
+    "team_id" : 1610612766,
+    "team_name" : "CHA",
+    "lineup" : [ {
+      "player_id" : 101107,
+      "player_name" : "Marvin Williams"
+    }, {
+      "player_id" : 201587,
+      "player_name" : "Nicolas Batum"
+    }, {
+      "player_id" : 202689,
+      "player_name" : "Kemba Walker"
+    },{
+      "player_id" : 203798,
+      "player_name" : "PJ Hairston"
+    },{
+      "player_id" : 203469,
+      "player_name" : "Cody Zeller"
+    },{
+      "player_id" : 1626163,
+      "player_name" : "Frank Kaminsky"
+    },{
+      "player_id" : 203087,
+      "player_name" : "Jeremy Lamb"
+    },
+    {
+      "player_id" : 201946,
+      "player_name" : "Tyler Hansbrough"
+    },
+    {
+      "player_id" : 203148,
+      "player_name" : "Brian Roberts"
+    },
+    {
+      "player_id" : 202391,
+      "player_name" : "Jeremy Lin"
+    }]
+  }, {
+    "team_id" : 1610612761,
+    "team_name" : "TOR",
+    "lineup" : [ {
+      "player_id" : 2449,
+      "player_name" : "Luis Scola"
+    },{
+      "player_id" : 201960,
+      "player_name" : "DeMarre Carroll"
+    }, {
+      "player_id" : 200768,
+      "player_name" : "Kyle Lowry"
+    },{
+      "player_id" : 201942,
+      "player_name" : "DeMar DeRozan"
+    },{
+      "player_id" : 202685,
+      "player_name" : "Jonas Valanciunas"
+    },
+    {
+      "player_id" : 202335,
+      "player_name" : "Patrick Patterson"
+    } ,{
+      "player_id" : 202709,
+      "player_name" : "Cory Joseph"
+    }]
+  } ]

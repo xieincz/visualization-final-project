@@ -1,0 +1,65 @@
+[ {
+    "team_id" : 1610612740,
+    "team_name" : "NOP",
+    "lineup" : [ {
+      "player_id" : 201600,
+      "player_name" : "Omer Asik"
+    }, {
+      "player_id" : 201569,
+      "player_name" : "Eric Gordon"
+    }, {
+      "player_id" : 202087,
+      "player_name" : "Alonzo Gee"
+    },{
+      "player_id" : 203076,
+      "player_name" : "Anthony Davis"
+    },{
+      "player_id" : 202708,
+      "player_name" : "Norris Cole"
+    },{
+      "player_id" : 201962,
+      "player_name" : "Toney Douglas"
+    },{
+      "player_id" : 201950,
+      "player_name" : "Toney Douglas"
+    },{
+      "player_id" : 201967,
+      "player_name" : "Dante Cunningham"
+    },{
+      "player_id" : 2570,
+      "player_name" : "Kendrick Perkins"
+    }
+    ]
+  }, {
+    "team_id" : 1610612742,
+    "team_name" : "DAL",
+    "lineup" : [ {
+      "player_id" : 200826,
+      "player_name" : "Jose Juan Barea"
+    }, {
+      "player_id" : 202083,
+      "player_name" : "Wesley Matthews"
+    },{
+      "player_id" : 202718,
+      "player_name" : "Chandler Parsons"
+    },{
+      "player_id" : 2585,
+      "player_name" : "Zaza Pachulia"
+    },
+    {
+      "player_id" : 1717,
+      "player_name" : "Dirk Nowitzki"
+    } ,
+    {
+      "player_id" : 101109,
+      "player_name" : "Raymond Felton"
+    },
+    {
+      "player_id" : 101114,
+      "player_name" : "Deron Williams"
+    },
+    {
+      "player_id" : 203939,
+      "player_name" : "Dwight Powell"
+    }]
+  } ]
